@@ -3,7 +3,7 @@ layout: states
 title:  "Louisiana"
 ---
 ## {{ site.heading_one }}:
-Average temperatures in Louisiana, which have climbed about 1.5°F since the early 1900s, are expected to exceed historical records by about 11°F by the end of the century if high carbon pollution levels continue<sup>[1](#f1)</sup>. In Louisiana, 9 counties have reported an average of one or more unhealthy ozone smog days each year, 100 counties have reported the presence of allergenic ragweed, and 9 counties suffer from both. This double whammy of air quality threats is particularly dangerous for the estimated 172,000 children and 555,000 adults with asthma in this state<sup>[2](#f2)</sup>. Climate change worsens smog and boosts pollen production, increasing respiratory health threats.
+Average temperatures in Louisiana, which have climbed about 1.5°F since the early 1900s, are expected to exceed historical records by about 11°F by the end of the century if high carbon pollution levels continue<sup>[1](#f1)</sup>. In Louisiana, 9 counties have reported an average of one or more extreme heat days each year, 100 counties have reported the presence of allergenic ragweed, and 9 counties suffer from both. This double whammy of air quality threats is particularly dangerous for the estimated 172,000 children and 555,000 adults with asthma in this state<sup>[2](#f2)</sup>. Climate change worsens smog and boosts pollen production, increasing respiratory health threats.
 
 ## {{ site.heading_two }}:
 We can make the air safer and healthier by reducing pollution from power plants, cars, and other big polluters. For example, carbon limits on power plants will also cut smog and soot and reduce premature deaths and hospital visits for heart and breathing problems. **Louisiana could avoid more than $976.4 million in health costs in 2020 by cleaning up its air**<sup>[3](#f3)</sup>.
@@ -16,7 +16,7 @@ actionTxt="Take Action"
  %}
 
 
-<sup>* Ragweed presence/absence: 2016; ozone exceedances: 2011-2015; estimates of asthma prevalence: 2014.</sup>
+<sup>* Extreme heat day estimates 2016</sup>
 
 <footer>
 <b id="f1">1.</b><sup> NOAA National Centers for Environmental Information, “State Climate Summaries: California,” <a href=
