@@ -29,17 +29,11 @@ This is one of the variables for the second header. You can change the "How We C
 
 ## To edit action button
 
-1. The action button is contained in the `<section class="l-1up-promo..... </section>` section, below the text and above the citations. The html is an exact copy from the primary NRDC page, and contains all the same config:
-    - The link around the image
-    - The img source url
-    - The h2 (header) text (the primary text in the promo
-    - The text content of the action button, and the button link url
-
-1. This is just regular html, so anything is editable. By default each state page is currently configured to use a variable for the h2 text:
-```
-<h2>{{ site.promo_one }}</h2>
-```
-3. If that's not desired, remove the {{}} and replace with regular text.
+1. The action button has been updated to use a template/include, so instead of having to edit html (`<section class="l-1up-promo..... </section>`), there are three variables/parameters to update:
+    * donateUrl: the url for the donation page
+    * imageUrl: the tout image
+    * actionTxt: the button text
+1. If the page needs a customized tout, you can copy the template from the repo/_includes/nrdc-image-tout.html, remove the {{}} and replace with regular text.
 
 ## To edit state statistics and text on the state detail view
 
