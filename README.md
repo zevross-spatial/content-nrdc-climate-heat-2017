@@ -3,7 +3,7 @@
 
 ## To edit individual state pages click on the states link above (or click [here](https://github.com/zevross-spatial/content-nrdc-climate-heat-2017/tree/master/states))
 
-**NOTE:** changes take at least a few seconds to get updated in the app, even as much as a minute. To see your changes outside the app you can use this link: [https://zevross-spatial.github.io/content-nrdc-climate2017/](https://zevross-spatial.github.io/content-nrdc-climate2017/)
+**NOTE:** changes take at least a few seconds to get updated in the app, even as much as a minute. To see your changes outside the app you can use this link: [https://zevross-spatial.github.io/content-nrdc-climate-heat-2017/](https://zevross-spatial.github.io/content-nrdc-climate2017/)
 
 1. Choose a state and click on that state's `.md` file.
 2. In the top right is a little pencil, click on this to edit. You can use HTML or you can use markdown in the text.
