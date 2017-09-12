@@ -49,7 +49,6 @@ https://github.com/zevross-spatial/content-nrdc-climate-heat-2017/blob/master/da
     "p": "100%",
     "r": "N/A",
     "a": "59,000",
-    "c": "10,000",
     "t1": "of residents living in DC reported to have ragweed and unhealthy smog days",
     "t2": "ranked in percentage of people living in DC with ragweed and unhealthy smog days",
     "t3": "suffer from asthma"
