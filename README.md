@@ -38,9 +38,10 @@ This is one of the variables for the second header. You can change the "How We C
 ## To edit state statistics and text on the state detail view
 
 1. To edit the numbers or text that are seen here:
-[details]: https://cloud.githubusercontent.com/assets/25695785/26737555/aa4b84f8-4798-11e7-855e-7b7700667768.png  "State Details"
+![State Details](https://cloud.githubusercontent.com/assets/25695785/26737555/aa4b84f8-4798-11e7-855e-7b7700667768.png "State Details")
+
 Edit the json file located here:
-https://github.com/zevross-spatial/content-nrdc-climate2017/blob/master/data/usstatestats.json
+https://github.com/zevross-spatial/content-nrdc-climate-heat-2017/blob/master/data/usstatestats.json
 
 1. All of the numbers come from this file, but for states that need different text from the default, you can also add additional entries for a state to override them. For example look at "DC":
 ```
