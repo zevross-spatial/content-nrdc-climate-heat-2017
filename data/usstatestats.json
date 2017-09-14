@@ -1,282 +1,311 @@
 {
-  "AK": {
-    "a": "51,000",
-    "t1": "No residents live in counties reported to have ragweed and unhealthy smog days",
-    "t2": " ",
-    "t3": "suffer from asthma"
-  },
   "AL": {
-    "p": "9%",
-    "r": "36th",
-    "a": "372,000"
+    "p": "4",
+    "r": "73%",
+    "a": "16",
+    "c": "2007",
+    "t1": "EXAMPLE DIFFERENT TEXT 1",
+    "t2": "EXAMPLE DIFFERENT TEXT 2",
+    "t3": "EXAMPLE DIFFERENT TEXT 3"
   },
-  "AR": {
-    "p": "23%",
-    "r": "32nd",
-    "a": "230,000"
+  "AK": {
+    "p": "17",
+    "r": "91%",
+    "a": "NA",
+    "c": "NA"
   },
   "AZ": {
-    "p": "68%",
-    "r": "7th",
-    "a": "490,000"
+    "p": "13",
+    "r": "93%",
+    "a": "194",
+    "c": "2005"
+  },
+  "AR": {
+    "p": "12",
+    "r": "74%",
+    "a": "25",
+    "c": "2011"
   },
   "CA": {
-    "p": "42%",
-    "r": "18th",
-    "a": "2.3 million"
+    "p": "9",
+    "r": "83%",
+    "a": "203",
+    "c": "2006"
   },
   "CO": {
-    "p": "40%",
-    "r": "19th",
-    "a": "380,000"
+    "p": "11",
+    "r": "84%",
+    "a": "NA",
+    "c": "NA"
   },
   "CT": {
-    "p": "97%",
-    "r": "1st",
-    "a": "297,000"
-  },
-  "DC": {
-    "p": "100%",
-    "a": "59,000",
-    "t1": "of residents are potentially exposed to ragweed and ozone pollution",
-    "t2": "If it were a state, Washington, D.C. would have the top percentage of people living in counties with ragweed and unhealthy smog days",
-    "t3": "suffer from asthma"
+    "p": "10",
+    "r": "88%",
+    "a": "NA",
+    "c": "NA"
   },
   "DE": {
-    "p": "59%",
-    "r": "10th",
-    "a": "69,000"
+    "p": "13",
+    "r": "78%",
+    "a": "NA",
+    "c": "NA"
+  },
+  "DC": {
+    "p": "NA",
+    "r": "100%",
+    "a": "11",
+    "c": "2011"
   },
   "FL": {
-    "p": "23%",
-    "r": "31st",
-    "a": "1.2 million"
+    "p": "9",
+    "r": "94%",
+    "a": "30",
+    "c": "2009"
   },
   "GA": {
-    "p": "13%",
-    "r": "35th",
-    "a": "718,000"
+    "p": "12",
+    "r": "28%",
+    "a": "25",
+    "c": "2010"
   },
   "HI": {
-    "p": "95%",
-    "a": "113,000",
-    "t1": "of residents live in counties reported to have ragweed",
-    "t2": " ",
-    "t3": "suffer from asthma"
-  },
-  "IA": {
-    "p": "0.5%",
-    "r": "38th",
-    "a": "183,000"
+    "p": "8",
+    "r": "100%",
+    "a": "NA",
+    "c": "NA"
   },
   "ID": {
-    "p": "26%",
-    "r": "29th",
-    "a": "111,000"
+    "p": "12",
+    "r": "62%",
+    "a": "NA",
+    "c": "NA"
   },
   "IL": {
-    "p": "80%",
-    "r": "3rd",
-    "a": "830,000"
+    "p": "10",
+    "r": "14%",
+    "a": "51",
+    "c": "2012"
   },
   "IN": {
-    "p": "55%",
-    "r": "13th",
-    "a": "519,000"
+    "p": "11",
+    "r": "51%",
+    "a": "26",
+    "c": "2012"
+  },
+  "IA": {
+    "p": "11",
+    "r": "31%",
+    "a": "NA",
+    "c": "NA"
   },
   "KS": {
-    "p": "52%",
-    "r": "14th",
-    "a": "191,000"
+    "p": "11",
+    "r": "80%",
+    "a": "32",
+    "c": "2011"
   },
   "KY": {
-    "p": "33%",
-    "r": "25th",
-    "a": "406,000"
+    "p": "11",
+    "r": "43%",
+    "a": "17",
+    "c": "2011"
   },
   "LA": {
-    "p": "52%",
-    "r": "15th",
-    "a": "291,000",
-    "t1": "of residents living in parishes reported to have ragweed and unhealthy smog days",
-    "t2": "ranked in percentage of people living in parishes with ragweed and unhealthy smog days"
-  },
-  "MA": {
-    "p": "66%",
-    "r": "9th",
-    "a": "555,000"
-  },
-  "MD": {
-    "p": "87%",
-    "a": "413,000",
-    "t1": "of residents live in counties reported to have unhealthy smog days",
-    "t2": " ",
-    "t3": "suffer from asthma"
+    "p": "10",
+    "r": "66%",
+    "a": "16",
+    "c": "2011"
   },
   "ME": {
-    "p": "40%",
-    "r": "20th",
-    "a": "121,000"
+    "p": "16",
+    "r": "46%",
+    "a": "NA",
+    "c": "NA"
+  },
+  "MD": {
+    "p": "11",
+    "r": "37%",
+    "a": "44",
+    "c": "2006"
+  },
+  "MA": {
+    "p": "11",
+    "r": "92%",
+    "a": "NA",
+    "c": "NA"
   },
   "MI": {
-    "p": "67%",
-    "r": "8th",
-    "a": "792,000"
+    "p": "11",
+    "r": "61%",
+    "a": "17",
+    "c": "2006"
   },
   "MN": {
-    "p": "7%",
-    "r": "37th",
-    "a": "311,000"
-  },
-  "MO": {
-    "p": "45%",
-    "r": "17th",
-    "a": "451,000"
+    "p": "11",
+    "r": "27%",
+    "a": "NA",
+    "c": "NA"
   },
   "MS": {
-    "p": "18%",
-    "r": "34th",
-    "a": "176,000"
+    "p": "4",
+    "r": "71%",
+    "a": "31",
+    "c": "2010"
+  },
+  "MO": {
+    "p": "11",
+    "r": "56%",
+    "a": "49",
+    "c": "2011"
   },
   "MT": {
-    "p": "26%",
-    "a": "72,000",
-    "t1": "of residents live in counties reported to have ragweed",
-    "t2": " ",
-    "t3": "suffer from asthma"
-  },
-  "NC": {
-    "p": "47%",
-    "r": "16th",
-    "a": "636,000"
-  },
-  "ND": {
-    "p": "79%",
-    "a": "52,000",
-    "t1": "of residents live in counties reported to have ragweed",
-    "t2": " ",
-    "t3": "suffer from asthma"
+    "p": "11",
+    "r": "77%",
+    "a": "NA",
+    "c": "NA"
   },
   "NE": {
-    "p": "0.5%",
-    "r": "39th",
-    "a": "103,000"
-  },
-  "NH": {
-    "p": "55%",
-    "r": "12th",
-    "a": "108,000"
-  },
-  "NJ": {
-    "p": "36%",
-    "r": "22nd",
-    "a": "503,000"
-  },
-  "NM": {
-    "p": "20%",
-    "r": "33rd",
-    "a": "157,000"
+    "p": "11",
+    "r": "37%",
+    "a": "NA",
+    "c": "NA"
   },
   "NV": {
-    "p": "94%",
-    "a": "179,000",
-    "t1": "of residents live in counties reported to have ragweed or unhealthy smog days",
-    "t2": " ",
-    "t3": "suffer from asthma"
+    "p": "15",
+    "r": "100%",
+    "a": "77",
+    "c": "2013"
+  },
+  "NH": {
+    "p": "16",
+    "r": "82%",
+    "a": "NA",
+    "c": "NA"
+  },
+  "NJ": {
+    "p": "10",
+    "r": "56%",
+    "a": "14",
+    "c": "2011"
+  },
+  "NM": {
+    "p": "11",
+    "r": "65%",
+    "a": "11",
+    "c": "2006"
   },
   "NY": {
-    "p": "38%",
-    "r": "21st",
-    "a": "1.6 million"
+    "p": "11",
+    "r": "50%",
+    "a": "61",
+    "c": "2006"
+  },
+  "NC": {
+    "p": "10",
+    "r": "80%",
+    "a": "20",
+    "c": "2008"
+  },
+  "ND": {
+    "p": "11",
+    "r": "0%",
+    "a": "NA",
+    "c": "NA"
   },
   "OH": {
-    "p": "69%",
-    "r": "6th",
-    "a": "903,000"
+    "p": "10",
+    "r": "64%",
+    "a": "16",
+    "c": "2012"
   },
   "OK": {
-    "p": "36%",
-    "r": "24th",
-    "a": "283,000"
+    "p": "11",
+    "r": "65%",
+    "a": "38",
+    "c": "2006"
   },
   "OR": {
-    "p": "60%",
-    "a": "360,000",
-    "t1": "of residents live in counties reported to have ragweed",
-    "t2": " ",
-    "t3": "suffer from asthma"
+    "p": "10",
+    "r": "85%",
+    "a": "NA",
+    "c": "NA"
   },
   "PA": {
-    "p": "76%",
-    "r": "4th",
-    "a": "1 million"
+    "p": "11",
+    "r": "67%",
+    "a": "56",
+    "c": "2011"
   },
   "RI": {
-    "p": "87%",
-    "r": "2nd",
-    "a": "93,000"
+    "p": "10",
+    "r": "88%",
+    "a": "NA",
+    "c": "NA"
   },
   "SC": {
-    "p": "24%",
-    "r": "30th",
-    "a": "313,000"
+    "p": "10",
+    "r": "65%",
+    "a": "17",
+    "c": "2010"
   },
   "SD": {
-    "p": "64%",
-    "a": "47,000",
-    "t1": "of residents live in counties reported to have ragweed or unhealthy smog days",
-    "t2": " ",
-    "t3": "suffer from asthma"
+    "p": "16",
+    "r": "10%",
+    "a": "NA",
+    "c": "NA"
   },
   "TN": {
-    "p": "31%",
-    "r": "27th",
-    "a": "455,000"
+    "p": "11",
+    "r": "76%",
+    "a": "44",
+    "c": "2010"
   },
   "TX": {
-    "p": "33%",
-    "r": "26th",
-    "a": "1.5 million"
+    "p": "11",
+    "r": "88%",
+    "a": "203",
+    "c": "2011"
   },
   "UT": {
-    "p": "76%",
-    "r": "5th",
-    "a": "189,000"
-  },
-  "VA": {
-    "p": "36%",
-    "r": "23rd",
-    "a": "518,000"
+    "p": "13",
+    "r": "86%",
+    "a": "NA",
+    "c": "NA"
   },
   "VT": {
-    "p": "86%",
-    "a": "56,000",
-    "t1": "of residents live in counties reported to have ragweed",
-    "t2": " ",
-    "t3": "suffer from asthma"
+    "p": "12",
+    "r": "70%",
+    "a": "NA",
+    "c": "NA"
+  },
+  "VA": {
+    "p": "11",
+    "r": "36%",
+    "a": "22",
+    "c": "2012"
   },
   "WA": {
-    "p": "50%",
-    "a": "525,000",
-    "t1": "of residents live in counties reported to have ragweed",
-    "t2": " ",
-    "t3": "suffer from asthma"
-  },
-  "WI": {
-    "p": "56%",
-    "r": "11th",
-    "a": "427,000"
+    "p": "11",
+    "r": "82%",
+    "a": "10",
+    "c": "2009"
   },
   "WV": {
-    "p": "28%",
-    "r": "28th",
-    "a": "159,000"
+    "p": "12",
+    "r": "53%",
+    "a": "NA",
+    "c": "NA"
+  },
+  "WI": {
+    "p": "11",
+    "r": "11%",
+    "a": "24",
+    "c": "2012"
   },
   "WY": {
-    "p": "33%",
-    "a": "36,000",
-    "t1": "of residents live in counties reported to have ragweed or unhealthy smog days",
-    "t2": " ",
-    "t3": "suffer from asthma"
+    "p": "11",
+    "r": "97%",
+    "a": "NA",
+    "c": "NA"
   }
 }
