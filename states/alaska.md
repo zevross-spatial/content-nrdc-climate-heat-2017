@@ -25,13 +25,13 @@ actionTxt="Take Action"
 
 <b id="f2">2.</b><sup>	For more information on our analysis, please see <a href="https://www.nrdc.org/resources/climate-change-and-health-extreme-heat-faqs">Frequently Asked Questions</a>. NRDC analysis of data from NOAA, Global Historical Climatology Network (GHCN), https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn (accessed June 15, 2017); and U.S. Census Bureau, “2011–2015 American Community Survey 5-Year Estimates,” 2015, https://factfinder.census.gov (accessed June 15, 2017). </sup>
 
-<b id="f3">3.</b><sup> U.S. Global Change Research Program, _Climate Change Impacts in the United States: The Third National Climate Assessment_, chapter 9, “Human Health,” 2014, http://nca2014.globalchange.gov/report/sectors/human-health (accessed July 21, 2017). </sup>
+<b id="f3">3.</b><sup> U.S. Global Change Research Program, Climate Change Impacts in the United States: The Third National Climate Assessment, chapter 9, “Human Health,” 2014, http://nca2014.globalchange.gov/report/sectors/human-health (accessed July 21, 2017). </sup>
 
 <b id="f4">4.</b><sup>	U.S. Energy Information Administration, “State Carbon Dioxide Emissions,” 2016, https://www.eia.gov/environment/emissions/state/ (accessed May 1, 2017).</sup>
 
 <b id="f5">5.</b><sup>1.	American Council for an Energy-Efficient Economy, “2016 State Energy Efficiency Scorecard: Alaska,” 2017, http://aceee.org/sites/default/files/pdf/state-sheet/2016/alaska.pdf (accessed May 1, 2017).</sup>
 
-<b id="f6">6.</b><sup>	U.S. Global Change Research Program, _The Impacts of Climate Change on Human Health in the United States: A Scientific Assessment_, chapter 2, “Temperature-Related Death and Illness,” 2016, https://health2016.globalchange.gov/temperature-related-death-and-illness (accessed May 1, 2017). 
+<b id="f6">6.</b><sup>	U.S. Global Change Research Program, The Impacts of Climate Change on Human Health in the United States: A Scientific Assessment, chapter 2, “Temperature-Related Death and Illness,” 2016, https://health2016.globalchange.gov/temperature-related-death-and-illness (accessed May 1, 2017). 
 </sup>
 
 <b id="f7">7.</b><sup>	Adaptation Advisory Group to the Alaska Climate Change Sub-Cabinet, “Alaska’s Climate Change Strategy: Addressing Impacts in Alaska,” 2010, http://climatechange.alaska.gov/aag/docs/aag_all_rpt_27jan10.pdf (accessed May 1, 2017).</sup>
