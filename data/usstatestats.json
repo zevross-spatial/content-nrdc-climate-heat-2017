@@ -30,55 +30,59 @@
     "p": "9",
     "r": "83%",
     "a": "203",
-    "c": "2006"
+    "c": "2006",
+    "t1": "increase from historical records projected by 2100 if emissions remain high"
   },
   "CO": {
     "p": "11",
     "r": "84%",
-    "a": "NA",
-    "c": "NA"
+    "t1": "increase from historical records projected by 2100 if emissions remain high",
+    "t3": " "
   },
   "CT": {
     "p": "10",
     "r": "88%",
-    "a": "NA",
-    "c": "NA"
+    "t1": "increase from historical records projected by 2100 if emissions remain high",
+    "t3": " "
   },
   "DE": {
     "p": "13",
     "r": "78%",
-    "a": "NA",
-    "c": "NA"
+    "t1": "increase from historical averages projected by 2100 if emissions remain high",
+    "t3": " "
   },
   "DC": {
-    "p": "NA",
     "r": "100%",
     "a": "11",
-    "c": "2011"
+    "c": "2011",
+    "t1": " "
   },
   "FL": {
     "p": "9",
     "r": "94%",
     "a": "30",
-    "c": "2009"
+    "c": "2009",
+    "t1": "increase from historical records projected by 2100 if emissions remain high"
   },
   "GA": {
     "p": "12",
     "r": "28%",
     "a": "25",
-    "c": "2010"
+    "c": "2010",
+    "t1": "increase from historical records projected by 2100 if emissions remain high"
   },
   "HI": {
     "p": "8",
     "r": "100%",
-    "a": "NA",
-    "c": "NA"
+    "t1": "increase from historical records projected by 2100 if emissions remain high",
+    "t3": " "
   },
   "ID": {
     "p": "12",
     "r": "62%",
-    "a": "NA",
-    "c": "NA"
+    "a": "6",
+    "c": "2015",
+    "t1": "increase from historical records projected by 2100 if emissions remain high"
   },
   "IL": {
     "p": "10",
@@ -120,7 +124,8 @@
     "p": "16",
     "r": "46%",
     "a": "NA",
-    "c": "NA"
+    "c": "NA",
+    "t1": "increase from historical averages projected by 2100 if emissions remain high"
   },
   "MD": {
     "p": "11",
@@ -174,13 +179,15 @@
     "p": "15",
     "r": "100%",
     "a": "77",
-    "c": "2013"
+    "c": "2013",
+    "t1": "increase from historical averages projected by 2100 if emissions remain high"
   },
   "NH": {
     "p": "16",
     "r": "82%",
     "a": "NA",
-    "c": "NA"
+    "c": "NA",
+    "t1": "increase from historical averages projected by 2100 if emissions remain high"
   },
   "NJ": {
     "p": "10",
@@ -252,7 +259,8 @@
     "p": "16",
     "r": "10%",
     "a": "NA",
-    "c": "NA"
+    "c": "NA",
+    "t1": "increase from historical averages projected by 2100 if emissions remain high"
   },
   "TN": {
     "p": "11",
