@@ -2,6 +2,8 @@
 layout: states
 title:  "Alabama"
 ---
+<sup>* Extreme summer heat days: 2007–2016; heat-related health estimates: 2005–2013; population: 2015 census. </sup>
+
 ## {{ site.heading_one }}:
 Average temperatures in Alabama, which have climbed about 1.5°F since the 1970s, are expected to exceed historical records by about 4°F by the end of the century if high carbon pollution levels continue globally.<sup>[1](#f1)</sup> NRDC’s analysis shows that in Alabama, 38 counties already see an average of more than nine extreme summer heat days per year, with 28 of those counties averaging more than two weeks’ worth of extremely hot summer days.<sup>[2](#f2)</sup> Climate change is fueling hotter summer days and increasing the intensity and frequency of heat waves, raising the risk of heatstroke and other heat-related illnesses.<sup>[3](#f3)</sup> Alabama had a particularly deadly year in 2007, when 16 heat-related deaths were reported.<sup>[4](#f4)</sup>*
 
@@ -18,7 +20,6 @@ actionTxt="Take Action"
  %}
 
 
-<sup>* Extreme summer heat days: 2007–2016; heat-related health estimates: 2005–2013; population: 2015 census. </sup>
 
 <footer>
 <b id="f1">1.</b><sup>	NOAA, National Centers for Environmental Information, “State Climate Summaries: Alabama,” 2017, https://statesummaries.ncics.org/al (accessed May 1, 2017). </sup>
