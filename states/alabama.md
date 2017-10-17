@@ -14,34 +14,35 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 Heat-trapping carbon pollution from Alabama’s energy use declined 14 percent from 2005 to 2014,<sup>[5](#f5)</sup> in part due to the state’s efforts to increase clean energy<sup>[6](#f6)</sup> and make buildings more efficient.<sup>[7](#f7)</sup> However, climate change already threatens the health<sup>[8](#f8)</sup> of Alabama residents, and the state does not have a climate adaptation plan to prepare for the health impacts of more extreme heat.<sup>[9](#f9)</sup>
 
 
-{% include nrdc-image-tout.html donateUrl="https://secure.nrdconline.org/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=4238&amp;s_src=CMLDCAPETNON0417"
-imageUrl="https://www.nrdc.org/sites/default/files/styles/1up_promo/public/defendclimateaction900x600_0.jpg?itok=C6VqAq_j"
+{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
+imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
 actionTxt="Take Action"
  %}
 
 
 
 <footer>
-<b id="f1">1.</b><sup>	NOAA, National Centers for Environmental Information, “State Climate Summaries: Alabama,” 2017, https://statesummaries.ncics.org/al (accessed May 1, 2017). </sup>
+<a id="f1"></a>
+<b id="f2">1.</b><sup>	NOAA, National Centers for Environmental Information, “State Climate Summaries: Alabama,” 2017, https://statesummaries.ncics.org/al (accessed May 1, 2017). </sup>
 
-<b id="f2">2.</b><sup>	For more information on our analysis, please see <a href="https://www.nrdc.org/resources/climate-change-and-health-extreme-heat-faqs">Frequently Asked Questions</a>. NRDC analysis of data from NOAA, Global Historical Climatology Network (GHCN), https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn (accessed June 15, 2017); and U.S. Census Bureau, “2011–2015 American Community Survey 5-Year Estimates,” 2015, https://factfinder.census.gov (accessed June 15, 2017). 
+<b id="f3">2.</b><sup>	For more information on our analysis, please see <a href="https://www.nrdc.org/resources/climate-change-and-health-extreme-heat-faqs">Frequently Asked Questions</a>. NRDC analysis of data from NOAA, Global Historical Climatology Network (GHCN), https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn (accessed June 15, 2017); and U.S. Census Bureau, “2011–2015 American Community Survey 5-Year Estimates,” 2015, https://factfinder.census.gov (accessed June 15, 2017). 
 </sup>
 
-<b id="f3">3.</b><sup>	U.S. Global Change Research Program, *Climate Change Impacts in the United States: The Third National Climate Assessment*, chapter 9, “Human Health,” 2014, http://nca2014.globalchange.gov/report/sectors/human-health (accessed July 21, 2017). 
+<b id="f4">3.</b><sup>	U.S. Global Change Research Program, *Climate Change Impacts in the United States: The Third National Climate Assessment*, chapter 9, “Human Health,” 2014, http://nca2014.globalchange.gov/report/sectors/human-health (accessed July 21, 2017). 
 </sup>
 
-<b id="f4">4.</b><sup> Centers for Disease Control and Prevention, National Environmental Public Health Tracking Network, “Climate Change,” 2017, https://ephtracking.cdc.gov/showClimateChangeLanding.action (accessed June 15, 2017).</sup>
+<b id="f5">4.</b><sup> Centers for Disease Control and Prevention, National Environmental Public Health Tracking Network, “Climate Change,” 2017, https://ephtracking.cdc.gov/showClimateChangeLanding.action (accessed June 15, 2017).</sup>
 
-<b id="f5">5.</b><sup>	U.S. Energy Information Administration, “State Carbon Dioxide Emissions,” 2016 https://www.eia.gov/environment/emissions/state/ (accessed May 1, 2017). </sup>
+<b id="f6">5.</b><sup>	U.S. Energy Information Administration, “State Carbon Dioxide Emissions,” 2016 https://www.eia.gov/environment/emissions/state/ (accessed May 1, 2017). </sup>
 
-<b id="f6">6.</b><sup> NC Clean Energy Technology Center, “Database of State Incentives for Renewables and Efficiency (DSIRE),” www.dsireusa.org/ (accessed May 1, 2017). </sup>
+<b id="f7">6.</b><sup> NC Clean Energy Technology Center, “Database of State Incentives for Renewables and Efficiency (DSIRE),” www.dsireusa.org/ (accessed May 1, 2017). </sup>
 
-<b id="f7">7.</b><sup>	American Council for an Energy-Efficient Economy, “2016 State Energy Efficiency Scorecard: Alabama,” 2016 http://aceee.org/sites/default/files/pdf/state-sheet/2016/alabama.pdf (accessed May 1, 2017). </sup>
+<b id="f8">7.</b><sup>	American Council for an Energy-Efficient Economy, “2016 State Energy Efficiency Scorecard: Alabama,” 2016 http://aceee.org/sites/default/files/pdf/state-sheet/2016/alabama.pdf (accessed May 1, 2017). </sup>
 
-<b id="f8">8.</b><sup>1.	U.S. Global Change Research Program, *The Impacts of Climate Change on Human Health*, chapter 2, “Temperature-Related Death and Illness,” 2016 https://health2016.globalchange.gov/temperature-related-death-and-illness (accessed May 1, 2017). 
+<b id="f9">8.</b><sup>1.	U.S. Global Change Research Program, *The Impacts of Climate Change on Human Health*, chapter 2, “Temperature-Related Death and Illness,” 2016 https://health2016.globalchange.gov/temperature-related-death-and-illness (accessed May 1, 2017). 
 </sup>
 
-<b id="f9">9.</b><sup> Georgetown Climate Center, “Overview of Alabama’s Climate Change Preparations,” http://www.georgetownclimate.org/adaptation/state-information/overview-of-alabamas-climate-change-preparations/overview.html (accessed May 1, 2017). 
+<b id="f10">9.</b><sup> Georgetown Climate Center, “Overview of Alabama’s Climate Change Preparations,” http://www.georgetownclimate.org/adaptation/state-information/overview-of-alabamas-climate-change-preparations/overview.html (accessed May 1, 2017). 
 </sup>
 
 
