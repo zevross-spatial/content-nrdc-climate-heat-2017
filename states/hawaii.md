@@ -2,6 +2,8 @@
 layout: states
 title:  "Hawaii"
 ---
+<sup>* Extreme summer heat days: 2007–2016; population: 2015 census.</sup>
+
 ## {{ site.heading_one }}:
 Average temperatures in Hawaii, which have climbed about 2°F since the early 1900s, are expected to exceed historical records by about 8°F by the end of the century if high carbon pollution levels continue globally.<sup>[1](#f1)</sup> NRDC’s analysis shows that in Hawaii, four counties already see an average of more than nine extreme summer heat days per year.<sup>[2](#f2)</sup> Climate change is fueling hotter summer days and increasing the intensity and frequency of heat waves, raising the risk of heatstroke and other heat-related illnesses.<sup>[3](#f3)</sup>*
 
@@ -13,13 +15,12 @@ Heat-trapping carbon pollution from Hawaii’s energy use declined 20 percent fr
 
 
 
-{% include nrdc-image-tout.html donateUrl="https://secure.nrdconline.org/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=4238&amp;s_src=CMLDCAPETNON0417"
-imageUrl="https://www.nrdc.org/sites/default/files/styles/1up_promo/public/defendclimateaction900x600_0.jpg?itok=C6VqAq_j"
+{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
+imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
 actionTxt="Take Action"
  %}
 
 
-<sup>* Extreme summer heat days: 2007–2016; population: 2015 census.</sup>
 
 <footer>
 <b id="f1">1.</b><sup>	NOAA, National Centers for Environmental Information, “State Climate Summaries: Hawaii,” 2017, https://statesummaries.ncics.org/hi (accessed May 1, 2017). </sup>
