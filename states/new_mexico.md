@@ -2,6 +2,8 @@
 layout: states
 title:  "New Mexico"
 ---
+<sup>* Extreme summer heat days: 2007–2016; heat-related emergency room visits: 2008–2013; hospitalizations and deaths: 2005–2013; population: 2015 census.</sup>
+
 
 ## {{ site.heading_one }}:
 Average temperatures in New Mexico, which have climbed nearly 2°F since the early 1900s, are expected to exceed historical records by about 11°F by the end of the century if high carbon pollution levels continue globally.<sup>[1](#f1)</sup> NRDC’s analysis shows that in New Mexico, 28 counties already see an average of more than nine extreme summer heat days per year, with 25 of those counties averaging more than two weeks’ worth of extremely hot summer days.<sup>[2](#f2)</sup> Climate change is fueling hotter summer days and increasing the intensity and frequency of heat waves, raising the risk of heatstroke and other heat-related illnesses.<sup>[3](#f3)</sup> In New Mexico, heat stress causes an average of more than 200 emergency room visits and nearly 30 hospitalizations a year.<sup>[4](#f4)</sup> A particularly deadly year was 2006, when 11 heat-related deaths were reported.<sup>[5](#f5)</sup>*
@@ -12,12 +14,12 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 ## {{ site.heading_three }}:
 Heat-trapping carbon pollution from New Mexico’s energy use declined 15.5 percent from 2005 to 2014,<sup>[6](#f6)</sup> in part due to the state’s efforts to increase clean energy<sup>[7](#f7)</sup> and make buildings more efficient.<sup>[8](#f8)</sup> However, climate change already threatens the health<sup>[9](#f9)</sup> of New Mexico residents, and the state does not have a climate adaptation plan to prepare for the health impacts of more extreme heat.<sup>[10](#f10)</sup>
 
-{% include nrdc-image-tout.html donateUrl="https://secure.nrdconline.org/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=4238&amp;s_src=CMLDCAPETNON0417"
-imageUrl="https://www.nrdc.org/sites/default/files/styles/1up_promo/public/defendclimateaction900x600_0.jpg?itok=C6VqAq_j"
+{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
+imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
 actionTxt="Take Action"
  %}
 
-<sup>* Extreme summer heat days: 2007–2016; heat-related emergency room visits: 2008–2013; hospitalizations and deaths: 2005–2013; population: 2015 census.</sup>
+
 
 <footer>
 <b id="f1">1.</b><sup> NOAA, National Centers for Environmental Information, “State Climate Summaries: New Mexico,” 2017, https://statesummaries.ncics.org/nm (accessed May 1, 2017).</sup>
