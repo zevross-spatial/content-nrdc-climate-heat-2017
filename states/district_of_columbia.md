@@ -2,6 +2,7 @@
 layout: states
 title:  "District of Columbia"
 ---
+<sup>* Extreme summer heat days: 2007–2016; heat-related health estimates: 2005–2013; population: 2015 census.</sup>
 
 ## {{ site.heading_one }}:
 NRDC’s analysis shows that Washington, D.C., already sees an average of more than two weeks’ worth of extreme summer heat days per year.<sup>[1](#f1)</sup> Climate change is fueling hotter summer days and increasing the intensity and frequency of heat waves, raising the risk of heatstroke and other heat-related illnesses.<sup>[2](#f2)</sup> The District of Columbia had a particularly deadly year in 2011, when 11 heat-related deaths were reported.<sup>[3](#f3)</sup>*
@@ -12,12 +13,10 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 ## {{ site.heading_three }}:
 Heat-trapping carbon pollution from energy use in Washington, D.C., declined 23.1 percent from 2005 to 2014,<sup>[4](#f4)</sup> in part due to the district’s efforts to increase clean energy<sup>[5](#f5)</sup> and make buildings and transportation more efficient.<sup>[6](#f6)</sup> However, climate change already threatens the health<sup>[7](#f7)</sup> of D.C. residents. The district’s plan to protect people from the impacts of more extreme heat includes replacing heat-absorbing paved surfaces with cooler green space, offering incentives to property owners who improve the thermal safety of their buildings, and improving the city’s heat emergency plans.<sup>[8](#f8)</sup>
 
-{% include nrdc-image-tout.html donateUrl="https://secure.nrdconline.org/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=4238&amp;s_src=CMLDCAPETNON0417"
-imageUrl="https://www.nrdc.org/sites/default/files/styles/1up_promo/public/defendclimateaction900x600_0.jpg?itok=C6VqAq_j"
+{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
+imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
 actionTxt="Take Action"
  %}
-
-<sup>* Extreme summer heat days: 2007–2016; heat-related health estimates: 2005–2013; population: 2015 census.</sup>
 
 <footer>
 <b id="f1">1.</b><sup> For more information on our analysis, please see [Frequently Asked Questions](https://www.nrdc.org/resources/climate-change-and-health-extreme-heat-faqs). NRDC analysis of data from NOAA, Global Historical Climatology Network (GHCN), https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn (accessed June 15, 2017); and U.S. Census Bureau, “2011–2015 American Community Survey 5-Year Estimates,” 2015, https://factfinder.census.gov (accessed June 15, 2017).</sup>
