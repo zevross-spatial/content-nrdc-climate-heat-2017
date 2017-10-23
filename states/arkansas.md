@@ -34,6 +34,6 @@ actionTxt="Take Action"
 
 <b id="f6">6.</b><sup>	Georgetown Climate Center, “Arkansas Climate and Energy Profile,” http://www.georgetownclimate.org/adaptation/state-information/overview-of-arkansas-climate-change-preparations/overview.html (accessed May 1, 2017).</sup>
 
-<b id="f7">7.</b><sup>1.	U.S. Global Change Research Program, The Impacts of Climate Change on Human Health in the United States: A Scientific Assessment, chapter 2, “Temperature-Related Death and Illness,” 2016, https://health2016.globalchange.gov/temperature-related-death-and-illness (accessed May 1, 2017). </sup>
+<b id="f7">7.</b><sup> U.S. Global Change Research Program, The Impacts of Climate Change on Human Health in the United States: A Scientific Assessment, chapter 2, “Temperature-Related Death and Illness,” 2016, https://health2016.globalchange.gov/temperature-related-death-and-illness (accessed May 1, 2017). </sup>
 
 </footer>
