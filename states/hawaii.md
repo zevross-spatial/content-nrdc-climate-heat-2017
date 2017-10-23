@@ -37,11 +37,11 @@ actionTxt="Take Action"
 <b id="f6">6.</b><sup> American Council for an Energy-Efficient Economy, “2016 State Energy Efficiency Scorecard: Hawaii,” 2016, http://aceee.org/sites/default/files/pdf/state-sheet/2016/hawaii.pdf (accessed May 1, 2017). 
 </sup>
 
-<b id="f7">7.</b><sup>1.	U.S. Global Change Research Program, The Impacts of Climate Change on Human Health in the United States: A Scientific Assessment, chapter 2, “Temperature-Related Death and Illness,” 2016, https://health2016.globalchange.gov/temperature-related-death-and-illness (accessed May 1, 2017). </sup>
+<b id="f7">7.</b><sup>	U.S. Global Change Research Program, The Impacts of Climate Change on Human Health in the United States: A Scientific Assessment, chapter 2, “Temperature-Related Death and Illness,” 2016, https://health2016.globalchange.gov/temperature-related-death-and-illness (accessed May 1, 2017). </sup>
 
-<b id="f8">8.</b><sup>1.	Georgetown Climate Center, “Overview of Hawaii’s Climate Change Preparations,” http://www.georgetownclimate.org/adaptation/state-information/overview-of-hawaiis-climate-change-preparations/overview.html (accessed May 1, 2017). </sup>
+<b id="f8">8.</b><sup>	Georgetown Climate Center, “Overview of Hawaii’s Climate Change Preparations,” http://www.georgetownclimate.org/adaptation/state-information/overview-of-hawaiis-climate-change-preparations/overview.html (accessed May 1, 2017). </sup>
 
-<b id="f9">9.</b><sup>1.	Hawai’i Climate Change and Health Working Group, “2015 Preliminary Report and Recommendations,” 2016, http://climateadaptation.hawaii.gov/climate-change-and-health/ (accessed May 1, 2017).
+<b id="f9">9.</b><sup>	Hawai’i Climate Change and Health Working Group, “2015 Preliminary Report and Recommendations,” 2016, http://climateadaptation.hawaii.gov/climate-change-and-health/ (accessed May 1, 2017).
 </sup>
 
 </footer>
