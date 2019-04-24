@@ -10,10 +10,7 @@ We can make the air safer and healthier by reducing pollution from power plants,
 Heat-trapping carbon pollution from United States Virgin Islands’s energy use declined 19.5 percent from 2005 to 2014, in part due to the state’s efforts to increase clean energy and make buildings and transportation more efficient. However, climate change already threatens the health of United States Virgin Islands residents<sup>[4](#f4)</sup>. The state’s current strategy to prepare for the health impacts of dirtier air includes a measure to track changes in allergic or respiratory illnesses and cardiovascular disease that might be associated with air pollution.
 
 
-{% include nrdc-image-tout.html donateUrl="https://secure.nrdconline.org/site/Advocacy?cmd=display&amp;page=UserAction&amp;id=4238&amp;s_src=CMLDCAPETNON0417"
-imageUrl="https://www.nrdc.org/sites/default/files/styles/1up_promo/public/defendclimateaction900x600_0.jpg?itok=C6VqAq_j"
-actionTxt="Take Action"
- %}
+
 
 
 <sup>* Extreme heat day estimates 2016</sup>

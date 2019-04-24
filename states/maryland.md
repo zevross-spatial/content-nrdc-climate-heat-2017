@@ -14,10 +14,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 ## {{ site.heading_three }}:
 Heat-trapping carbon pollution from Maryland’s energy use declined 26.4 percent from 2005 to 2014,<sup>[6](#f6)</sup> in part due to the state’s participation in the Regional Greenhouse Gas Initiative<sup>[7](#f7)</sup> and its related efforts to increase clean energy<sup>[8](#f8)</sup> and make buildings and transportation more efficient.<sup>[9](#f9)</sup> However, climate change already threatens the health<sup>[10](#f10)</sup> of Maryland residents. The state’s public health strategy<sup>[11](#f11)</sup> includes using a detailed new climate and health assessment<sup>[12](#f12)</sup> to develop targeted ways to protect vulnerable state residents, such as low-income African-Americans.
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 
 

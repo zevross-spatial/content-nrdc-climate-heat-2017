@@ -15,10 +15,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 Heat-trapping carbon pollution from Colorado’s energy use declined 4 percent from 2005 to 2014,<sup>[5](#f5)</sup> in part due to the state’s efforts to increase clean energy<sup>[6](#f6)</sup> and make buildings and transportation more efficient.<sup>[7](#f7)</sup> However, climate change already threatens the health<sup>[8](#f8)</sup> of Colorado residents. The state’s climate action plan includes some measures to protect people from the health threats of climate change, but does not adequately prepare for the impacts of more extreme heat.<sup>[9](#f9)</sup>
 
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 
 <footer>

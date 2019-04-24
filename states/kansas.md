@@ -14,10 +14,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 Heat-trapping carbon pollution from Kansas’s energy use decreased 3.2 percent from 2005 to 2014,<sup>[6](#f6)</sup> in part due to a shift in electricity production from coal to wind energy.<sup>[7](#f7)</sup> However, climate change already threatens the health<sup>[8](#f8)</sup> of Kansas residents, and the state does not have a climate adaptation plan to prepare for the health impacts of more extreme heat.<sup>[9](#f9)</sup>
 
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 
 

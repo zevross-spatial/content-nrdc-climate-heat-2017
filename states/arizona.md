@@ -14,10 +14,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 Heat-trapping carbon pollution from Arizona’s energy use declined 3.7 percent from 2005 to 2014,<sup>[6](#f6)</sup> in part due to the state’s efforts to make buildings and transportation more efficient.<sup>[7](#f7)</sup> However, climate change already threatens the health<sup>[8](#f8)</sup> of Arizona residents. The state’s climate strategy includes goals to better educate the public on heat-related health issues and increase accessibility to health services during hot summer months.<sup>[9](#f9)</sup>
 
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 
 

@@ -14,10 +14,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 Heat-trapping carbon pollution from Wisconsin’s energy use declined 8.8 percent from 2005 to 2014,<sup>[6](#f6)</sup> in part due to the state’s efforts to increase clean energy<sup>[7](#f7)</sup> and make buildings more efficient.<sup>[8](#f8)</sup> However, climate change already threatens the health<sup>[9](#f9)</sup> of Wisconsin residents. Wisconsin’s plan to protect people from more extreme heat includes strategies to make low-income housing more energy-efficient and to work with utilities to develop emergency response plans for power outages during heat waves.<sup>[10](#f10)</sup>
 
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 
 

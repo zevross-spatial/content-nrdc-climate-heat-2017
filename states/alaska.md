@@ -13,10 +13,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 ## {{ site.heading_three }}:
 Heat-trapping carbon pollution from Alaska’s energy use declined 26.9 percent from 2005 to 2014,<sup>[4](#f4)</sup> in part due to the state’s efforts to make buildings and transportation more efficient.<sup>[5](#f5)</sup> However, climate change already threatens the health<sup>[6](#f6)</sup> of Alaska residents. The state’s climate strategy identifies heat stress as a health threat of climate change but doesn’t propose specific measures to prepare for the health impacts of more extreme heat.<sup>[7](#f7)</sup>
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 
 

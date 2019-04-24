@@ -14,10 +14,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 ## {{ site.heading_three }}:
 Heat-trapping carbon pollution from Oregon’s energy use declined 7.5 percent from 2005 to 2014,<sup>[5](#f5)</sup> in part due to the state’s efforts to increase clean energy<sup>[6](#f6)</sup> and make buildings and transportation more efficient.<sup>[7](#f7)</sup> However, climate change already threatens the health<sup>[8](#f8)</sup> of Oregon residents. The state’s 2010 climate preparedness framework<sup>[9](#f9)</sup> includes measures to address the health impacts of more extreme heat, and Oregon’s Health Authority is now using detailed vulnerability assessments<sup>[10](#f10)</sup> to inform the development of a more specific plan.<sup>[11](#f11)</sup>
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 
 <footer>
