@@ -13,10 +13,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 ## {{ site.heading_three }}:
 Heat-trapping carbon pollution from Pennsylvania’s energy use declined 12.7 percent from 2005 to 2014,<sup>[6](#f6)</sup> in part due to the state’s efforts to increase clean energy<sup>[7](#f7)</sup> and make buildings and transportation more efficient.<sup>[8](#f8)</sup> However, climate change already threatens the health<sup>[9](#f9)</sup> of Pennsylvania residents. The state’s strategy to prepare for climate change identifies heat as a health issue that will worsen with climate change,<sup>[10](#f10)</sup> but the state needs to develop a concrete plan to prepare for the health impacts of worsening heat waves.
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 
 

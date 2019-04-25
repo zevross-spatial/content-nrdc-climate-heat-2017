@@ -13,10 +13,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 ## {{ site.heading_three }}:
 Heat-trapping carbon pollution from energy use in Washington, D.C., declined 23.1 percent from 2005 to 2014,<sup>[4](#f4)</sup> in part due to the district’s efforts to increase clean energy<sup>[5](#f5)</sup> and make buildings and transportation more efficient.<sup>[6](#f6)</sup> However, climate change already threatens the health<sup>[7](#f7)</sup> of D.C. residents. The district’s plan to protect people from the impacts of more extreme heat includes replacing heat-absorbing paved surfaces with cooler green space, offering incentives to property owners who improve the thermal safety of their buildings, and improving the city’s heat emergency plans.<sup>[8](#f8)</sup>
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 <footer>
 <b id="f1">1.</b><sup> For more information on our analysis, please see [Frequently Asked Questions](https://www.nrdc.org/resources/climate-change-and-health-extreme-heat-faqs). NRDC analysis of data from NOAA, Global Historical Climatology Network (GHCN), https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn (accessed June 15, 2017); and U.S. Census Bureau, “2011–2015 American Community Survey 5-Year Estimates,” 2015, https://factfinder.census.gov (accessed June 15, 2017).</sup>

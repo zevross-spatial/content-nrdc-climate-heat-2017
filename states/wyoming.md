@@ -15,10 +15,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 Heat-trapping carbon pollution from Wyoming’s energy use increased 3.6 percent from 2005 to 2014,<sup>[4](#f4)</sup> and the state does not have a climate adaptation plan to prepare for the health impacts of more extreme heat.<sup>[5](#f5)</sup> Wyoming needs to do more to protect the health of state residents from the threat of climate change.<sup>[6](#f6)</sup>
 
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 
 

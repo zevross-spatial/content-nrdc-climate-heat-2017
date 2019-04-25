@@ -16,10 +16,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 Heat-trapping carbon pollution from Louisiana’s energy use increased 3.7 percent from 2005 to 2014,<sup>[6](#f6)</sup> and the state does not have a climate adaptation plan to prepare for the health impacts of extreme heat.<sup>[7](#f7)</sup> Louisiana needs to do more to protect the health of state residents from the threat of climate change.<sup>[8](#f8)</sup>
 
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 
 

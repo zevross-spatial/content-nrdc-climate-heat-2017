@@ -14,10 +14,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 ## {{ site.heading_three }}:
 Heat-trapping carbon pollution from New York’s energy use declined 19.8 percent from 2005 to 2014,<sup>[6](#f6)</sup> in part due to the state’s participation in the Regional Greenhouse Gas Initiative<sup>[7](#f7)</sup> and its related efforts to increase clean energy<sup>[8](#f8)</sup> and make buildings and transportation more efficient.<sup>[9](#f9)</sup> However, climate change already threatens the health<sup>[10](#f10)</sup> of New York residents. The state is building on its current climate preparedness strategy<sup>[11](#f11)</sup> by developing targeted measures to protect vulnerable people from the health impacts of more extreme heat.<sup>[12](#f12)</sup>
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 
 

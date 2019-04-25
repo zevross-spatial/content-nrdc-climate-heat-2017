@@ -13,10 +13,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 ## {{ site.heading_three }}:
 Heat-trapping carbon pollution from Michigan’s energy use declined 14.7 percent from 2005 to 2014,<sup>[6](#f6)</sup> in part due to the state’s efforts to increase clean energy<sup>[7](#f7)</sup> and make buildings and transportation more efficient.<sup>[8](#f8)</sup> However, climate change already threatens the health<sup>[9](#f9)</sup> of Michigan residents. The state’s 2011 plan to prepare for the health impacts of more extreme heat includes measures to improve early warning systems,<sup>[10](#f10)</sup> and Michigan is working to update the plan with specific guidance for local health departments.<sup>[11](#f11)</sup>
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 
 

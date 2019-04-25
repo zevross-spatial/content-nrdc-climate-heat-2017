@@ -15,10 +15,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 Heat-trapping carbon pollution from Nevada’s energy use declined 25.9 percent from 2005 to 2014,<sup>[5](#f5)</sup> in part due to the state’s efforts to increase clean energy.<sup>[6](#f6)</sup> However, climate change already threatens the health<sup>[7](#f7)</sup> of Nevada residents, and the state does not have a climate adaptation plan to prepare for the health impacts of more extreme heat.<sup>[8](#f8)</sup>
 
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 
 

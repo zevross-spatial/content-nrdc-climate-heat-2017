@@ -15,10 +15,7 @@ We can help reduce extreme heat and prevent related deaths and illnesses in the 
 Heat-trapping carbon pollution from Massachusetts’s energy use declined 24.5 percent from 2005 to 2014,<sup>[5](#f5)</sup> in part due to the state’s participation in the Regional Greenhouse Gas Initiative<sup>[6](#f6)</sup> and its efforts to increase clean energy<sup>[7](#f7)</sup> and make buildings and transportation more efficient.<sup>[8](#f8)</sup> However, climate change already threatens the health<sup>[9](#f9)</sup> of Massachusetts residents. The state’s climate preparedness report suggests ways to protect people from heat waves, including increasing the capacity of urban cooling centers and surveying buildings for thermal safety,<sup>[10](#f10)</sup> but the state needs to develop a concrete plan to prepare for the health impacts of more extreme heat.
 
 
-{% include nrdc-image-tout.html donateUrl="https://act.nrdc.org/letter/clean-power-plan-171010?source=HLPCPPPET"
-imageUrl="https://s3.amazonaws.com/nrdc-actionkit/images/aa-2369-cpp.jpg"
-actionTxt="Take Action"
- %}
+
 
 
 <footer>
